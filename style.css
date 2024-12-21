@@ -1,0 +1,94 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+}
+
+div {
+    border: 1px;
+    border-radius: 20px;
+    max-width: 490px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: hsl(0, 0%, 20%);
+
+}
+
+img {
+    border-radius: 50%;
+    inline-size: 90px;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+h2 {
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+}
+
+h5 {
+    text-align: center;
+    color: hsl(75, 94%, 57%);
+}
+
+p {
+    text-align: center;
+    color: hsl(0, 9%, 64%);
+}
+
+.button-1 {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 9%, 64%);
+    padding: 15px 128px;
+    margin-left: 100px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 20%);
+    transition-property: background-color, color;
+    transition-duration: 2s;
+}
+
+.button-2 {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    padding: 15px 100px;
+    margin: 15px;
+    margin-left: 100px;
+    border-radius: 10px;
+    transition-property: background-color, color;
+    transition-duration: 2s;
+}
+
+.button-3 {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    padding: 15px 128px;
+    margin-left: 100px;
+    border-radius: 10px;
+    transition-property: background-color, color;
+    transition-duration: 2s;
+}
+
+.button-4 {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    padding: 15px 130px;
+    margin: 15px;
+    margin-left: 100px;
+    border-radius: 10px;
+    transition-property: background-color, color;
+    transition-duration: 2s;
+}
+
+.button-5 {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    padding: 15px 117.5px;
+    margin-left: 100px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    transition-property:  background,color;
+    transition-duration: 1s;
+}
+
+button:hover {
+    background-color: #c0b7b7;
+    color: #0009;
+}
